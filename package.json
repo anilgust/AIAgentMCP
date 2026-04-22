@@ -1,0 +1,12 @@
+{
+  "name": "aiaagentmcp-playwright",
+  "version": "1.0.0",
+  "description": "Playwright end-to-end tests for AIAgentMCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}

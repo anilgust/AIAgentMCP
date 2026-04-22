@@ -1,0 +1,95 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test tests/add-iphone-x-to-cart.spec.ts",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test tests/add-iphone-x-to-cart.spec.ts",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test tests/add-iphone-x-to-cart.spec.ts",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests (headed)",
+			"type": "shell",
+			"command": "npx playwright test tests/add-iphone-x-to-cart.spec.ts --headed",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests (headed, fixed wait)",
+			"type": "shell",
+			"command": "npx playwright test tests/add-iphone-x-to-cart.spec.ts --headed",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		},
+		{
+			"label": "Run Playwright Tests",
+			"type": "shell",
+			"command": "npx playwright test",
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "test"
+		}
+	]
+}
