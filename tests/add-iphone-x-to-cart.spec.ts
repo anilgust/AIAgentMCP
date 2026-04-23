@@ -34,6 +34,6 @@ test('login, add iPhone X to cart, and checkout', async ({ page }) => {
   // Checkout
   await page.click('button.btn.btn-success');
 
-  // Confirm checkout page is shown on the summary
+  // Confirm checkout page is shown on the summary page
   // await expect(page.locator('h2')).toHaveText(/Checkout/i);
 });
